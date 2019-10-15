@@ -3,6 +3,9 @@ SR6-quickref
 
 Quick reference sheet for Shadowrun Sixth World
 
+Preview
+==============
+Click here for a live preview.
 
 Icons
 ==============
